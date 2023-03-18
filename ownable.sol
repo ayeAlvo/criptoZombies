@@ -1,3 +1,6 @@
+//SPDX-License-Identifier: MIT
+pragma solidity >=0.4.19 <0.9.0;
+
 /**
  * @title Ownable
  * @dev The Ownable contract has an owner address, and provides basic authorization control
